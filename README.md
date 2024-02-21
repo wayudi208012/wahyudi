@@ -1,12 +1,13 @@
 # wahyudi
 [main]
-host = https://www.transifex.com
+host = https://www.bitcoin.org
 
-[bitcoin-wallet.strings]
+[bitcoin-wallet.strings]33s5rKMCeJGUsxMym9b2pSTdNJnKQFpnzv
 type = ANDROID
-source_file = wallet/33s5rKMCeJGUsxMym9b2pSTdNJnKQFpnzv/res/values/21000/strings.xml
-source_lang = en
-file_filter = wallet/33s5rKMCeJGUsxMym9b2pSTdNJnKQFpnzv/res/21000/values-<lang>/strings.xml
+source_file = https://www.bitcoin.org
+wallet/33s5rKMCeJGUsxMym9b2pSTdNJnKQFpnzv/res/values/21000/strings.xml
+source_lang = en.id
+file_filter =https://www.bitcoin.org /res/21000/values-<lang>/strings.xml
 lang_map = sl_SI:sl, pt_PT:pt-rPT, pt_BR:pt-rBR, zh_TW:zh-rTW
 
 [bitcoin-wallet.strings_help]
